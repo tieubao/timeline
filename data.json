@@ -62,7 +62,7 @@
             {
                 "startDate":"2010,7",
                 "headline": "Intern at eSilicon",
-                "text": "Receive Internship Scholarship from eSilicon VN (former SDS).",
+                "text": "Receive Internship Scholarship from eSilicon VN (former SDS). My supervisor, Duc Nguyen, teaches me a lot of things. This is also the first time I play with Linux and Perl, a powerful language in processing text.",
                 "asset":
                 {
                     "media":"",
@@ -115,7 +115,7 @@
                     "media":"assets/img/shots/wut.jpg",
                     "thumbnail":"assets/img/shots/wut.jpg",
                     "credit":"",
-                    "caption":"One of the most weirdest memories"
+                    "caption":"One of the most hilarious memories"
                 }
             },
             {
@@ -132,7 +132,7 @@
             },
             {
                 "startDate":"2013,8",
-                "headline": "Lifebox Realtime and migrating to CloudJay",
+                "headline": "Lifebox Realtime and the migration to CloudJay",
                 "text": "After Lifebox Daily and with the insight of Trung, Lifebox Realtime had came. It is a field report app on the mobile that help manager can be updated realtime information from the field, just pictures and realtime information. We target on logistics and construction major.",
                 "asset":
                 {
@@ -144,7 +144,7 @@
             {
                 "startDate":"2013,9",
                 "headline": "Join class 2013B at JFDI",
-                "text": "With Lifebox Realtime, we applied to JFDI Accelerate Program and got a seed fund about 25k Singapore Dollars. So we moved to Singapore and found <b>CloudJay Pte. Ltd.</b> that aim be a startup that provide fast and clean cloud computing solutions for logistics industry. <p>We renamed Lifebox Realtime to <a href='/writing/project/jaypix'>JayPixApp</a></p>",
+                "text": "With Lifebox Realtime, we applied to JFDI Accelerate Program and got a seed fund about 25k Singapore Dollars. So we moved to Singapore and found <b>CloudJay Pte. Ltd.</b> that aim be a startup providing fast and clean cloud computing solutions for logistics industry. <p>We renamed Lifebox Realtime to <a href='/writing/project/jaypix'>JayPixApp</a></p>",
                 "asset":
                 {
                     "media":"assets/img/shots/jfdi.JPG",
@@ -167,57 +167,72 @@
             },
             {
                 "startDate":"2013,12",
-                "headline": "CJay Network",
-                "text": "cjay v1, phuoc long",
+                "headline": "CJay, A Container Network",
+                "text": "Failure streak is unstoppable. And as you guest, JayPixApp also failed from execution. People doesn't find it is necessary to pay for. And we do not have enough connections to push that app to the market. Then after 100 days at JFDI, we feel bad and get back to Vietnam. <p>With enthusiasm, we find new direction and work with Phuoc Long ICD to try new product, <a href='/writing/project/cjaynet'>CJayNet</a>, a realtime container network that  push the flow of information faster, cut down the gap time between field and office, provide monitor dashboard for depot managers and operators.</p>",
                 "asset":
                 {
-                    "media":"/static/welcome/step3.png",
+                    "media":"assets/img/shots/cjay.png",
+					"thumbnail":"assets/img/shots/cjay.png",
                     "credit":"",
                     "caption":""
                 }
             },
             {
                 "startDate":"2014,02",
-                "headline": "Training Android",
-                "text": "Begin training android for Nam & Thai",
+                "headline": "Recruit new members",
+                "text": "As the team grow up, we need to boost up the progress of making new application. And I've find out 2 candidates: Nam & Thai. It costs me 6 months to transfer necessary knowledge of Android Development.",
                 "asset":
                 {
-                    "media":"/static/welcome/step3.png",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"2014,08,01",
-                "headline": "Emoot",
-                "text": "emoot",
-                "asset":
-                {
-                    "media":"/static/welcome/step3.png",
+                    "media":"",
                     "credit":"",
                     "caption":""
                 }
             },
             {
                 "startDate":"2014,08,15",
-                "headline": "VYE",
-                "text": "vye",
+                "headline": "VYE Bootcamp 2014",
+                "text": "Thanks to CloudJay and esp. Trung recommendation, I am accepted and become a camper of VYE bootcamp 2014. I have met a lot of friends and have lots of memorable moments w/ them. I come to VYE with <a href='/writing/project/gossip'>Gossip</a>, an location based anonymous social network which was inspired by Yik Yak and Secret, provide a place that people can share their really thoughts without caring about other criticism.",
                 "asset":
                 {
-                    "media":"/static/welcome/step3.png",
+                    "media":"assets/img/shots/vye.jpg",
+					"thumbnail":"assets/img/shots/vye.jpg",
                     "credit":"",
                     "caption":""
                 }
             },
             {
-                "startDate":"2014,09",
-                "headline": "CJay v2",
-                "text": "cjay v2",
+                "startDate":"2014,11",
+                "headline": "Upgrade CJay to next version",
+                "text": "We need to upgrade CJay app so that it can handle large data set in local disc, support working under the rain, faster than the old one. <a href='/writing/project/cjay-v2'>CJay v2</a> also has the contributions of Thai and Nam.",
                 "asset":
                 {
-                    "media":"/static/welcome/step3.png",
+                    "media":"",
                     "credit":"",
                     "caption":""
+                }
+            },
+            {
+                "startDate":"2014,12,06",
+                "headline": "First prize winner at DevFest Challenge",
+                "text": "DevFest is an event held by Google Developer Group and Silicon Strait Saigon. There are about 20 teams. They give some tips and we have to find out the way to turn on the 3 lights via rest api. <a href='https://www.facebook.com/siliconstraitssaigon/photos/t.100000351772608/781647998595435'>We won luckily.</a>",
+                "asset":
+                {
+                    "media":"assets/img/shots/devfest.jpg",
+                    "thumbnail":"assets/img/shots/devfest.jpg",
+                    "credit":"",
+                    "caption":"Team CloudJay"
+                }
+            },
+            {
+                "startDate":"2014,12,14",
+                "headline": "Sharing a topic at Barcamp Saigon",
+                "text": "Join Barcamp Saigon 2014 and share a topic <b>`How to handle large dataset in Android with SnappyDB</b>. Slide can be found at <a href='/writing/2014/12/14/barcamp-saigon-2014/'>this post</a>",
+                "asset":
+                {
+                    "media":"assets/img/shots/me-at-barcamp-2014.JPG",
+                    "thumbnail":"assets/img/shots/barcamp.png",
+                    "credit":"",
+                    "caption":"Le me at Barcamp Saigon 2014"
                 }
             }
         ]
