@@ -234,6 +234,30 @@
                     "credit":"",
                     "caption":"Le me at Barcamp Saigon 2014"
                 }
+            },
+            {
+                "startDate":"2014,12,24",
+                "headline": "Found Dwarves Foundation",
+                "text": "Dwarves Foundation (DF) is a team in Saigon, Vietnam. We call ourselves <b>dwarves</b>, the small and misshapen creatures in Norse Mythology. We are wisdom, natural good at smithing, mining, and crafting. We provide Tech Partner service to venture and startup.",
+                "asset":
+                {
+                    "media":"assets/img/shots/dwarvesf-at-night.jpg",
+                    "thumbnail":"assets/img/shots/dwarvesf-logo.png",
+                    "credit":"",
+                    "caption":"Nightly Dwarves are smithing"
+                }
+            },
+            {
+                "startDate":"2015,1,15",
+                "headline": "Found Golang Vietnam",
+                "text": "Go is an open source programming language that makes it easy to build simple, reliable, and efficient software. Go is backed by Google. Golang Community has growth rate higher and higher after years. But there are not so much Gophers in Vietnam. For the sake of community, I found Golang Vietnam group, start with Meetup series.",
+                "asset":
+                {
+                    "media":"assets/img/shots/golang-meetup-01.jpg",
+                    "thumbnail":"assets/img/shots/golang-vietnam.png",
+                    "credit":"",
+                    "caption":"First Golang Vietnam meetup with 50 attendees"
+                }
             }
         ]
     }
