@@ -5,7 +5,7 @@
 		"headline":"Han Ngo",
 		"type":"default",
 		"startDate":"1991,6,20",
-		"text": "<i><span class='c1'>Co-founder</span> & <span class='c2'>Hacker</span> [at] <span><b>CloudJay</b></span></i><p class='subtext'>It's a timeline of important events in my life, visualized in a way my mind always imagine it.</p>",
+		"text": "<i><span class='c1'>Founder</span> @ <span><b>Dwarves Foundation</b></span></i><br><i><span class='c1'>Founder</span> @ <span><b>delivr.to</b></span></i><p class='subtext'>It's the timeline of memorable and important events of my life, visualized in a way my mind always imagine it.</p>",
 		"asset": {	"media":"http://2.bp.blogspot.com/-dxJbW0CG8Zs/TmkoMA5-cPI/AAAAAAAAAqw/fQpsz9GpFdo/s1600/voyage-dans-la-lune-1902-02-g.jpg",
 			"credit":"",
 			"caption":""
@@ -13,7 +13,7 @@
 		"date": [
             {
                 "startDate":"1992",
-                "headline":"First birthday",
+                "headline":"My first birthday",
                 "text":"",
                 "asset":
                 {
@@ -260,8 +260,32 @@
                 }
             },
             {
+                "startDate":"2015,09,15",
+                "headline": "Start `Today I learned` repo",
+                "text": "Everyday life, the knowledge bypass my brain and go thru. I use Github Issues to organize them. Read more about it at: http://tieubao.me/writing/2015/12/03/today-i-learned/",
+                "asset":
+                {
+                    "media":"assets/img/shots/til.png",
+                    "thumbnail":"assets/img/shots/til.png",
+                    "credit":"",
+                    "caption":"List of til items"
+                }
+            },
+            {
+                "startDate":"2015,11",
+                "headline": "Finished first 4 projects of Dwarves Foundation",
+                "text": "After working hard for a long time, we had finished 4 projects for our customers, including Pear Comms, Sales In One and one Vietnam client. For retrospective, we knew that we need to learn more in term of professional service and engineering knowledge.",
+                "asset":
+                {
+                    "media":"assets/img/shots/vos.png",
+                    "thumbnail":"assets/img/shots/vos.png",
+                    "credit":"",
+                    "caption":"VoicesOfSales - One of 4 projects"
+                }
+            },
+            {
                 "startDate":"2015,12",
-                "headline": "Found delivr.to",
+                "headline": "Found delivr.to, p2p delivery network",
                 "text": "delivr.to is the invite only & peer to peer delivery platform connects shoppers with travellers to help you buy and deliver anything around the world.<br>",
                 "asset":
                 {
@@ -269,6 +293,18 @@
                     "thumbnail":"assets/img/shots/delivr.png",
                     "credit":"",
                     "caption":"delivr.to landing page"
+                }
+            },
+            {
+                "startDate":"2016,01,23",
+                "headline": "First Pull Request",
+                "text": "As I started learning Elixir as resolution for 2016, I make <b>_mix</b>, a zsh (prezto) script/plugin that provide completion for elixir mix tool.",
+                "asset":
+                {
+                    "media":"assets/img/shots/pr.png",
+                    "thumbnail":"assets/img/shots/pr.png",
+                    "credit":"",
+                    "caption":"My pull request to <b>zsh-completions</b> repo"
                 }
             }
         ]
