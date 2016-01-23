@@ -238,13 +238,13 @@
             {
                 "startDate":"2014,12,24",
                 "headline": "Found Dwarves Foundation",
-                "text": "Dwarves Foundation (DF) is a team in Saigon, Vietnam. We call ourselves <b>dwarves</b>, the small and misshapen creatures in Norse Mythology. We are wisdom, natural good at smithing, mining, and crafting. We provide Tech Partner service to venture and startup.",
+                "text": "Dwarves Foundation (DF) is a team in Saigon, Vietnam. We call ourselves <b>dwarves</b>, the small and misshapen creatures in Norse Mythology. We are wisdom, natural good at smithing, mining, and crafting. We provide Tech Partnership to venture and startup.",
                 "asset":
                 {
                     "media":"assets/img/shots/dwarvesf-at-night.jpg",
                     "thumbnail":"assets/img/shots/dwarvesf-logo.png",
                     "credit":"",
-                    "caption":"Nightly Dwarves are smithing"
+                    "caption":"Nightly Dwarves are crafting"
                 }
             },
             {
@@ -257,6 +257,18 @@
                     "thumbnail":"assets/img/shots/golang-vietnam.png",
                     "credit":"",
                     "caption":"First Golang Vietnam meetup with 50 attendees"
+                }
+            },
+            {
+                "startDate":"2015,12",
+                "headline": "Found delivr.to",
+                "text": "delivr.to is the invite only & peer to peer delivery platform connects shoppers with travellers to help you buy and deliver anything around the world.<br>",
+                "asset":
+                {
+                    "media":"assets/img/shots/delivr-early-access.png",
+                    "thumbnail":"assets/img/shots/delivr.png",
+                    "credit":"",
+                    "caption":"delivr.to landing page"
                 }
             }
         ]
