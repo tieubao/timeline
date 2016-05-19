@@ -306,6 +306,18 @@
                     "credit":"",
                     "caption":"My pull request to <b>zsh-completions</b> repo"
                 }
+            },
+            {
+                "startDate":"2016,04,08",
+                "headline": "TOPICA award in Edtech Asia Hackathon",
+                "text": "The team of 4 lead engineers from separate companies gathers and fly down to Hanoi, Vietnam. We joined Topica Asia Hackathon with VirtualBook, which is an open platform where people can contribute/submit their knowledge as lectures/slides in supported 3D VR models and others can use them for educational purposes.<br><br>More info: http://devpost.com/software/virtualbook",
+                "asset":
+                {
+                    "media":"assets/img/shots/topica.jpg",
+                    "thumbnail":"assets/img/shots/topica.jpg",
+                    "credit":"",
+                    "caption":"The picture of all the winners"
+                }
             }
         ]
     }
