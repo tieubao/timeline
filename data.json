@@ -318,6 +318,18 @@
                     "credit":"",
                     "caption":"The picture of all the winners"
                 }
+            },
+            {
+                "startDate":"2016,04,12",
+                "headline": "Vim+Go sharing at Innovatube Tech Talk #3",
+                "text": "I was invited to give a talk about how to use Vim as Go IDE. The talk went through basic of Vim and the real life workflow of using vim-go plugin.",
+                "asset":
+                {
+                    "media":"assets/img/shots/innovatube.JPG",
+                    "thumbnail":"assets/img/shots/innovatube.JPG",
+                    "credit":"",
+                    "caption":"The picture of all the winners"
+                }
             }
         ]
     }
