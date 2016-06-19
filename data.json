@@ -330,6 +330,18 @@
                     "credit":"",
                     "caption":"The picture of all the winners"
                 }
+            },
+            {
+                "startDate":"2016,06,18",
+                "headline": "FRP sharing at Mobile Day Vietnam 2016",
+                "text": "Mobile Day 2016 is one of the biggest annually Tech event in Vietnam and I feel good to be invited as the guest speaker about Mobile Technology.<br><br>Slidedeck at: https://speakerdeck.com/tieubao/functional-reactive-programming-in-mobile-development",
+                "asset":
+                {
+                    "media":"assets/img/shots/mobile-day-2016.JPG",
+                    "thumbnail":"assets/img/shots/mobile-day-2016.JPG",
+                    "credit":"",
+                    "caption":""
+                }
             }
         ]
     }
