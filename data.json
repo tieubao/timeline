@@ -328,7 +328,7 @@
                     "media":"assets/img/shots/innovatube.JPG",
                     "thumbnail":"assets/img/shots/innovatube.JPG",
                     "credit":"",
-                    "caption":"The picture of all the winners"
+                    "caption":"Me during the sharing session"
                 }
             },
             {
@@ -340,7 +340,43 @@
                     "media":"assets/img/shots/mobile-day-2016.JPG",
                     "thumbnail":"assets/img/shots/mobile-day-2016.JPG",
                     "credit":"",
-                    "caption":""
+                    "caption":"The certificate of Honour"
+                }
+            },
+            {
+                "startDate":"2016,09,24",
+                "headline": "Go Installfest",
+                "text": "At Go Installfest we will help new comers starting using Go including set up Go environments, bring some best practices, live coding with Vim Go, etc.",
+                "asset":
+                {
+                    "media":"assets/img/shots/goinstallfest.jpg",
+                    "thumbnail":"assets/img/shots/goinstallfest.jpg",
+                    "credit":"",
+                    "caption":"Show off our vim editor"
+                }
+            },
+			{
+                "startDate":"2016,11,04",
+                "headline": "Speaker at Barcamp Asia / Phnom Penh",
+                "text": "This year should be diferrent as I joined BarCamp Asia. I walked the audience thru Startup scene and Tech scene in Vietnam",
+                "asset":
+                {
+                    "media":"assets/img/shots/barcamp-asia-2016.jpg",
+                    "thumbnail":"assets/img/shots/barcamp-asia-2016.jpg",
+                    "credit":"",
+                    "caption":"The topic posted by organization"
+                }
+            },
+            {
+                "startDate":"2016,12,02",
+                "headline": "Join IPP2 at Finland",
+                "text": "IPP (Innovation Partnership Program) is the program between Vietnam and Finland that encourages growth factors of the startup ecosystem in Vietnam as an emerging country. Being a ventures builder, Dwarves Foundation will take a big part in Vietnam to help founders build their startups in the next 5 years.",
+                "asset":
+                {
+                    "media":"assets/img/shots/ipp.jpg",
+                    "thumbnail":"assets/img/shots/ipp.jpg",
+                    "credit":"",
+                    "caption":"Me at Slush Impact Day"
                 }
             }
         ]
