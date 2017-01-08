@@ -346,7 +346,7 @@
             {
                 "startDate":"2016,09,24",
                 "headline": "Go Installfest",
-                "text": "At Go Installfest we will help new comers starting using Go including set up Go environments, bring some best practices, live coding with Vim Go, etc.",
+                "text": "At Go Installfest we helped new comers starting using Go including set up Go environments, bring some best practices, live coding with Vim Go, etc. It was also the first event that the next gophers to be incharge.",
                 "asset":
                 {
                     "media":"assets/img/shots/goinstallfest.jpg",
@@ -357,8 +357,8 @@
             },
 			{
                 "startDate":"2016,11,04",
-                "headline": "Speaker at Barcamp Asia / Phnom Penh",
-                "text": "This year should be diferrent as I joined BarCamp Asia. I walked the audience thru Startup scene and Tech scene in Vietnam",
+                "headline": "Speaker at Barcamp Asia",
+                "text": "This year should be diferrent as I joined BarCamp Asia in Phom Penh. I rode my motorbike from HCM to Phom Penh for 5 hours. The event became special with that experience. In 30 minutes, I walked the audience thru Startup scene and Tech scene in Vietnam",
                 "asset":
                 {
                     "media":"assets/img/shots/barcamp-asia-2016.jpg",
@@ -369,7 +369,7 @@
             },
             {
                 "startDate":"2016,12,02",
-                "headline": "Join IPP2 at Finland",
+                "headline": "Join IPP2 & Slush in Finland",
                 "text": "IPP (Innovation Partnership Program) is the program between Vietnam and Finland that encourages growth factors of the startup ecosystem in Vietnam as an emerging country. Being a ventures builder, Dwarves Foundation will take a big part in Vietnam to help founders build their startups in the next 5 years.",
                 "asset":
                 {
