@@ -5,7 +5,7 @@
 		"headline":"Han Ngo",
 		"type":"default",
 		"startDate":"1991,6,20",
-		"text": "<i><span class='c1'>Founder</span> @ <span><b>Dwarves Foundation</b></span></i><br><i><span class='c1'>Founder</span> @ <span><b>delivr.to</b></span></i><p class='subtext'>It's the timeline of memorable and important events of my life, visualized in a way my mind always imagine it.</p>",
+		"text": "<i>Engineer</i><br><i>Entrepreneur</i><br><i><span class='c1'>Founder</span> @ <span><b>Dwarves Foundation</b></span></i><br><p class='subtext'>It's the timeline of memorable and important events of my life, visualized in a way my mind always imagine it.</p>",
 		"asset": {	"media":"http://2.bp.blogspot.com/-dxJbW0CG8Zs/TmkoMA5-cPI/AAAAAAAAAqw/fQpsz9GpFdo/s1600/voyage-dans-la-lune-1902-02-g.jpg",
 			"credit":"",
 			"caption":""
@@ -62,7 +62,7 @@
             {
                 "startDate":"2010,7",
                 "headline": "Intern at eSilicon",
-                "text": "Receive Internship Scholarship from eSilicon VN (former SDS). My supervisor, Duc Nguyen, teaches me a lot of things. This is also the first time I play with Linux and Perl, a powerful language in processing text.",
+                "text": "Receive Internship Scholarship from eSilicon VN (former SDS). My supervisor, Duc Nguyen, teaches me a lot of things. This is also the first time I play with Linux and Perl, a powerful language in text processing.",
                 "asset":
                 {
                     "media":"",
@@ -260,6 +260,11 @@
                 }
             },
             {
+                "startDate":"2015,09",
+                "headline": "Close down CloudJay",
+                "text": "It was finally the end of CloudJay. The company was suggested to strike off. All the members have moved on in their own journey."
+            },
+            {
                 "startDate":"2015,09,15",
                 "headline": "Start `Today I learned` repo",
                 "text": "Everyday life, the knowledge bypass my brain and go thru. I use Github Issues to organize them. Read more about it at: http://tieubao.me/writing/2015/12/03/today-i-learned/",
@@ -268,19 +273,7 @@
                     "media":"assets/img/shots/til.png",
                     "thumbnail":"assets/img/shots/til.png",
                     "credit":"",
-                    "caption":"List of til items"
-                }
-            },
-            {
-                "startDate":"2015,11",
-                "headline": "Finished first 4 projects of Dwarves Foundation",
-                "text": "After working hard for a long time, we had finished 4 projects for our customers, including Pear Comms, Sales In One and one Vietnam client. For retrospective, we knew that we need to learn more in term of professional service and engineering knowledge.",
-                "asset":
-                {
-                    "media":"assets/img/shots/vos.png",
-                    "thumbnail":"assets/img/shots/vos.png",
-                    "credit":"",
-                    "caption":"VoicesOfSales - One of 4 projects"
+                    "caption":"List of `til` items"
                 }
             },
             {
@@ -292,7 +285,7 @@
                     "media":"assets/img/shots/delivr-early-access.png",
                     "thumbnail":"assets/img/shots/delivr.png",
                     "credit":"",
-                    "caption":"delivr.to landing page"
+                    "caption":"Delivr landing page"
                 }
             },
             {
@@ -377,6 +370,172 @@
                     "thumbnail":"assets/img/shots/ipp.jpg",
                     "credit":"",
                     "caption":"Me at Slush Impact Day"
+                }
+            },
+            {
+                "startDate":"2016,12,10",
+                "headline": "First trip to Europe",
+                "text": "Taking a short trip to 2 of the most famous cities in Europe: Paris and Roma. Spent 7 days walking the whole city and was impressed by the magnificent of Europe.",
+                "asset":
+                {
+                    "media":"assets/img/shots/paris.jpg",
+                    "thumbnail":"assets/img/shots/paris.jpg",
+                    "credit":"",
+                    "caption":"Time in Paris"
+                }
+            },
+            {
+                "startDate":"2017,01,18",
+                "headline": "The 2nd Year End Party",
+                "text": "It's also our celebration for 2nd year of Dwarves Foundation. Joining us is the Amio team which is our partner.",
+                "asset":
+                {
+                    "media":"assets/img/shots/2017-yep-df.jpg",
+                    "thumbnail":"assets/img/shots/2017-yep-df.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2017,03",
+                "headline": "Start hiring the third batch for Dwarves Foundation",
+                "text": "Being small and focus is good for a young team. Most of the time we want to know the candidates before offering them the position. 3 members joined us in April"
+            },
+            {
+                "startDate":"2017,06,27",
+                "headline": "Start the road trip through Vietnam",
+                "text": "Deciding to go for a road trip through Vietnam from Saigon after restructured and promoted the 1st Managing Director for DF. Trying the new way to work with the team as dependent contributor.",
+                "asset":
+                {
+                    "media":"assets/img/shots/roadtrip2017.jpg",
+                    "thumbnail":"assets/img/shots/roadtrip2017.jpg",
+                    "credit":"",
+                    "caption":"First day of the trip"
+                }
+            },
+            {
+                "startDate":"2017,08,17",
+                "headline": "Expand the Foundation team",
+                "text": "Growing to 12 members, we decided to expand the office. Everything was organized by the team.",
+                "asset":
+                {
+                    "media":"assets/img/shots/cmt8-office.jpg",
+                    "thumbnail":"assets/img/shots/cmt8-office.jpg",
+                    "credit":"",
+                    "caption":"Saigon Office at CMT8, D3"
+                }
+            },
+            {
+                "startDate":"2017,08",
+                "headline": "Arrive Da Nang & taking prewedding",
+                "text": "This year is our 27 for both me and Trang. Planning a entire year to get married and the end of 2017. When I arrived Da Nang, Trang took a flight there then we went shooting for prewedding.",
+                "asset":
+                {
+                    "media":"assets/img/shots/prewedding.jpg",
+                    "thumbnail":"assets/img/shots/prewedding.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2017,09,13",
+                "headline": "Den joined the road trip",
+                "text": "Running for more than 200km in total from Sapa to Bac Ha and other district to look for the famous Bac Ha dog breed. Didn't find one but luckily found Hmong Coc instead. Named her Den aka Blacky in Vietnamese.",
+                "asset":
+                {
+                    "media":"assets/img/shots/den01.jpg",
+                    "thumbnail":"assets/img/shots/den01.jpg",
+                    "credit":"",
+                    "caption":"First day with Den"
+                }
+            },
+            {
+                "startDate":"2017,09,21",
+                "headline": "End of the road trip",
+                "text": "3 months for the whole trip. Taking a small tattoo in Hanoi and back to Saigon with Den by train",
+                "asset":
+                {
+                    "media":"assets/img/shots/tattoo.jpg",
+                    "thumbnail":"assets/img/shots/tattoo.jpg",
+                    "credit":"Hieu Do",
+                    "caption":"Taking tattoo in Hanoi"
+                }
+            },
+            {
+                "startDate":"2017,10",
+                "headline": "Restructure the team & Postpone delivr.to",
+                "text": "To focus on growing the foundation team, I decided to stop all side projects, including Delivr and Delivr Corner. Fired 2 members of Delivr and 2 other members left the Dwarves."
+            },
+            {
+                "startDate":"2017,11,29",
+                "headline": "Company trip to Da Nang",
+                "text": "",
+                "asset":
+                {
+                    "media":"assets/img/shots/2017-df-danang-trip.jpg",
+                    "thumbnail":"assets/img/shots/2017-df-danang-trip.jpg",
+                    "credit":"",
+                    "caption":"At a small village nearby Da Nang and Son Tra"
+                }
+            },
+            {
+                "startDate":"2017,12,16",
+                "headline": "Wedding in Dalat",
+                "text": "",
+                "asset":
+                {
+                    "media":"assets/img/shots/2017-wedding-dalat.jpg",
+                    "thumbnail":"assets/img/shots/2017-wedding-dalat.jpg",
+                    "credit":"",
+                    "caption":"Our wedding in Dalat"
+                }
+            },
+            {
+                "startDate":"2017,12,23",
+                "headline": "Wedding in Saigon",
+                "text": "",
+                "asset":
+                {
+                    "media":"assets/img/shots/2017-wedding-saigon.jpg",
+                    "thumbnail":"assets/img/shots/2017-wedding-saigon.jpg",
+                    "credit":"",
+                    "caption":"Our wedding in Saigon"
+                }
+            },
+            {
+                "startDate":"2018,01,22",
+                "headline": "Jamona apartment",
+                "text": "Being blessed and supported by the families, we managed to own the new apartment in D7. One of the lifetime milestones has been achieved.",
+                "asset":
+                {
+                    "media":"assets/img/shots/jamona.jpg",
+                    "thumbnail":"assets/img/shots/jamona.jpg",
+                    "credit":"",
+                    "caption":"The first apartment in D7"
+                }
+            },
+            {
+                "startDate":"2018,02,03",
+                "headline": "Den left the journey",
+                "text": "At the age of 7 months, she got sick and passed away. \"You won't ever be forgotten\"",
+                "asset":
+                {
+                    "media":"assets/img/shots/den02.jpg",
+                    "thumbnail":"assets/img/shots/den02.jpg",
+                    "credit":"",
+                    "caption":"The good old days"
+                }
+            },
+            {
+                "startDate":"2018,02,09",
+                "headline": "A successful year of 2017",
+                "text": "This is the first year, we are truly profitable from the business. Everyone has bonus salary, the team is expanding and new members will join in the following months. New resolution for 2018 has been set. Such a good time.",
+                "asset":
+                {
+                    "media":"assets/img/shots/2018-yep-df.jpg",
+                    "thumbnail":"assets/img/shots/2018-yep-df.jpg",
+                    "credit":"",
+                    "caption":"2018 Year End Party"
                 }
             }
         ]
